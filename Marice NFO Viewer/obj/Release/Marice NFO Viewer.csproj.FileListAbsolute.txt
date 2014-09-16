@@ -1,0 +1,11 @@
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\bin\Release\Marice NFO Viewer.exe
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\bin\Release\Marice NFO Viewer.exe.config
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\bin\Release\Newtonsoft.Json.dll
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\bin\Release\Newtonsoft.Json.xml
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\obj\Release\Marice_NFO_Viewer.Form1.resources
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\obj\Release\Marice_NFO_Viewer.imdb.resources
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\obj\Release\Marice_NFO_Viewer.Properties.Resources.resources
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\obj\Release\Marice_NFO_Viewer.settings.resources
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\obj\Release\Marice NFO Viewer.csproj.GenerateResource.Cache
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\obj\Release\Marice NFO Viewer.exe
+c:\users\marice\documents\visual studio 2013\Projects\Marice NFO Viewer\Marice NFO Viewer\obj\Release\Marice NFO Viewer.pdb
